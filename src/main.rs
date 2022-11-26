@@ -1,3 +1,10 @@
+/**
+ * guessing_game
+ * By Edward Naidoo
+ * Credits: The Rust Book, Lets Get Rusty
+ * Nov 25, 2022
+ */
+
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
